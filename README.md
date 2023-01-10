@@ -12,7 +12,7 @@ Acreditamos em um ambiente onde todas as pessoas se sintam à vontade e possam c
 -	Religião ou a falta dela
 -	Idade
 -	Gênero, identidade de gênero ou expressão de gênero
--	Aparência física (incluindo, mas não limitado, ao tamanho do corpo)
+-	Aparência física
 -	Raça e/ou etnia
 
 **✔️ Nós trabalhamos ativamente para:**
